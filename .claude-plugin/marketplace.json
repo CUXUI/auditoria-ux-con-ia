@@ -1,0 +1,36 @@
+{
+  "name": "auditoria-ux-con-ia",
+  "owner": {
+    "name": "Comunidad UX/UI",
+    "url": "https://github.com/ComunidadUXUI"
+  },
+  "metadata": {
+    "description": "Stack de Auditoría UX: 10 skills para auditar un producto digital y salir con un informe con evidencia, severidad y recomendaciones.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "auditoria-ux",
+      "description": "Stack de Auditoría UX: 10 skills para auditar un producto digital y salir con un informe con evidencia, severidad y recomendaciones.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "author": {
+        "name": "Comunidad UX/UI"
+      },
+      "license": "CC-BY-NC-SA-4.0",
+      "skills": [
+        "./skills/audit-ux-0-contexto-y-acceso",
+        "./skills/audit-ux-1-fundamentos-de-usabilidad",
+        "./skills/audit-ux-2-accesibilidad",
+        "./skills/audit-ux-3-contenido-y-lenguaje",
+        "./skills/audit-ux-4-jerarquia-y-claridad-visual",
+        "./skills/audit-ux-5-navegacion-y-arquitectura-de-informacion",
+        "./skills/audit-ux-6-estados-del-sistema",
+        "./skills/audit-ux-7-formularios-e-interaccion",
+        "./skills/audit-ux-8-tecnico-y-bugs",
+        "./skills/audit-ux-9-sintesis-y-reporte"
+      ]
+    }
+  ]
+}
