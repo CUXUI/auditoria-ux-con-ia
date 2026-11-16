@@ -10,7 +10,7 @@ Primero eliges **dónde** instalarlo (tres opciones), y después arrancas con un
 
 ### Opción A: Instalarlas en claude.ai (recomendado)
 
-En claude.ai las skills se instalan **de a una, en formato zip**. Por eso cada skill tiene su zip en [Releases](https://github.com/ComunidadUXUI/auditoria-ux-con-ia/releases/latest).
+En claude.ai las skills se instalan **de a una, en formato zip**. Por eso cada skill tiene su zip en [Releases](https://github.com/CUXUI/auditoria-ux-con-ia/releases/latest).
 
 1. Entra a **Personalizar → Skills**, toca **+** y elige **Subir una skill**. Paso a paso con capturas: [guía en Notion](NOTION_LINK).
 2. Sube **un zip de Releases**, el de la skill que quieras.
@@ -25,7 +25,7 @@ En claude.ai las skills se instalan **de a una, en formato zip**. Por eso cada s
 Dos comandos dentro de Claude Code (el primero solo la primera vez):
 
 ```
-/plugin marketplace add ComunidadUXUI/auditoria-ux-con-ia
+/plugin marketplace add CUXUI/auditoria-ux-con-ia
 /plugin install auditoria-ux@auditoria-ux-con-ia
 ```
 

@@ -64,7 +64,7 @@ Lo que no se puede comprobar queda anotado como pendiente, con instrucciones par
 
 ### En claude.ai y en Cowork
 
-1. Descarga los zips desde **[Releases](https://github.com/ComunidadUXUI/auditoria-ux-con-ia/releases/latest)**. Un zip es una skill.
+1. Descarga los zips desde **[Releases](https://github.com/CUXUI/auditoria-ux-con-ia/releases/latest)**. Un zip es una skill.
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y sube los zips (puedes elegir varios a la vez).
 3. Empieza por `audit-ux-0-contexto-y-acceso` y `audit-ux-9-sintesis-y-reporte`; suma las áreas que te interesen.
 
@@ -73,7 +73,7 @@ Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LIN
 ### En Claude Code
 
 ```
-/plugin marketplace add ComunidadUXUI/auditoria-ux-con-ia
+/plugin marketplace add CUXUI/auditoria-ux-con-ia
 /plugin install auditoria-ux@auditoria-ux-con-ia
 ```
 
@@ -82,7 +82,7 @@ Después pide lo que necesitas («audita los formularios de https://mi-sitio.com
 ### En Codex, Cursor, Gemini CLI y otros agentes
 
 ```bash
-npx skills add ComunidadUXUI/auditoria-ux-con-ia
+npx skills add CUXUI/auditoria-ux-con-ia
 ```
 
 Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repositorio en tu carpeta de trabajo y pídele: *«Lee skills/audit-ux-0-contexto-y-acceso/SKILL.md y sigue el método para auditar mi producto»*.
@@ -108,7 +108,7 @@ docs/
 
 Cada skill lleva adentro una copia de las reglas que usa, para funcionar sola. Si las quieres leer de corrido, están juntas en [`docs/las-5-reglas-para-leer/`](docs/las-5-reglas-para-leer/).
 
-¿Por qué se llaman `audit-ux-…`? El prefijo separa este stack, que **evalúa** un producto existente, de cualquier stack que tengas para **crear** producto (como [Diseño guiado con IA](https://github.com/ComunidadUXUI/diseno-guiado-con-ia)). Sin él, dos skills llamadas «accesibilidad» se confunden al momento en que la IA elige cuál usar.
+¿Por qué se llaman `audit-ux-…`? El prefijo separa este stack, que **evalúa** un producto existente, de cualquier stack que tengas para **crear** producto (como [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia)). Sin él, dos skills llamadas «accesibilidad» se confunden al momento en que la IA elige cuál usar.
 
 ## Límites honestos
 
@@ -124,7 +124,7 @@ Estas skills te dan el método. Saber qué hallazgo importa, cómo defenderlo fr
 
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Diseño guiado con IA](https://github.com/ComunidadUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/ComunidadUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/ComunidadUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/ComunidadUXUI/modo-fable) · [Ahorro de tokens](https://github.com/ComunidadUXUI/ahorro-de-tokens)
+**Más skills de Comunidad UX/UI:** [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
 
 ## Licencia
 
