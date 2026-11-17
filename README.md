@@ -68,7 +68,7 @@ Lo que no se puede comprobar queda anotado como pendiente, con instrucciones par
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y sube los zips (puedes elegir varios a la vez).
 3. Empieza por `audit-ux-0-contexto-y-acceso` y `audit-ux-9-sintesis-y-reporte`; suma las áreas que te interesen.
 
-Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LINK)**.
+Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](https://elegant-unicorn-d6c.notion.site/C-mo-instalar-una-skill-en-Claude-paso-a-paso-41afe4da3fb9819eaddac42060168977)**.
 
 ### En Claude Code
 

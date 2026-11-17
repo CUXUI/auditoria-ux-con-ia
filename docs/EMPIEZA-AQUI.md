@@ -12,7 +12,7 @@ Primero eliges **dónde** instalarlo (tres opciones), y después arrancas con un
 
 En claude.ai las skills se instalan **de a una, en formato zip**. Por eso cada skill tiene su zip en [Releases](https://github.com/CUXUI/auditoria-ux-con-ia/releases/latest).
 
-1. Entra a **Personalizar → Skills**, toca **+** y elige **Subir una skill**. Paso a paso con capturas: [guía en Notion](NOTION_LINK).
+1. Entra a **Personalizar → Skills**, toca **+** y elige **Subir una skill**. Paso a paso con capturas: [guía en Notion](https://elegant-unicorn-d6c.notion.site/C-mo-instalar-una-skill-en-Claude-paso-a-paso-41afe4da3fb9819eaddac42060168977).
 2. Sube **un zip de Releases**, el de la skill que quieras.
 3. Repite con las demás. No hace falta subir las 10: cada una funciona sola.
 
