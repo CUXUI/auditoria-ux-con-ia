@@ -108,7 +108,7 @@ docs/
 
 Cada skill lleva adentro una copia de las reglas que usa, para funcionar sola. Si las quieres leer de corrido, están juntas en [`docs/las-5-reglas-para-leer/`](docs/las-5-reglas-para-leer/).
 
-¿Por qué se llaman `audit-ux-…`? El prefijo separa este stack, que **evalúa** un producto existente, de cualquier stack que tengas para **crear** producto (como [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia)). Sin él, dos skills llamadas «accesibilidad» se confunden al momento en que la IA elige cuál usar.
+¿Por qué se llaman `audit-ux-…`? El prefijo separa este stack, que **evalúa** un producto existente, de cualquier stack que tengas para **crear** producto (como Diseño guiado con IA). Sin él, dos skills llamadas «accesibilidad» se confunden al momento en que la IA elige cuál usar.
 
 ## Límites honestos
 
@@ -122,9 +122,12 @@ Cada skill lleva adentro una copia de las reglas que usa, para funcionar sola. S
 
 Estas skills te dan el método. Saber qué hallazgo importa, cómo defenderlo frente a un cliente y cómo cobrar por evaluar productos es lo que practicamos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)**, con feedback sobre tus propias auditorías.
 
+<p align="center"><a href="https://www.skool.com/comunidaduxui/about"><img src="docs/cta-comunidad.png" alt="Súmate a Comunidad UX/UI" width="100%"></a></p>
+
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
+<p align="center"><a href="https://comunidad-uxui.kit.com/fb40f8e711"><img src="docs/cta-minuto-ux.png" alt="Suscríbete a Minuto UX" width="100%"></a></p>
+
 
 ## Licencia
 
