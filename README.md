@@ -118,9 +118,9 @@ Cada skill lleva adentro una copia de las reglas que usa, para funcionar sola. S
 
 ---
 
-## Del informe a cobrar por evaluar productos
+## Del informe a auditor certificado
 
-Estas skills te dan el método. Saber qué hallazgo importa, cómo defenderlo frente a un cliente y cómo cobrar por evaluar productos es lo que practicamos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)**, con feedback sobre tus propias auditorías.
+Estas skills te dan el método. Saber qué hallazgo importa, cómo defenderlo frente a un cliente y cómo presentarlo para que quien decide sepa qué hacer es lo que practicamos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)**, donde te conviertes en auditor UX/UI certificado.
 
 <p align="center"><a href="https://www.skool.com/comunidaduxui/about"><img src="docs/cta-comunidad.png" alt="Súmate a Comunidad UX/UI" width="100%"></a></p>
 
